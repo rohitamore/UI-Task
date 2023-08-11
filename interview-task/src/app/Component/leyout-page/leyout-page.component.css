@@ -13,6 +13,12 @@
     margin-right: 10px;
     border-radius: 6px !important;
 }
+.sm1{
+    height: 20px !important;
+    width: 30px !important;
+    border-radius: 50% !important;
+    border: 1px solid rgb(48, 47, 47)!important;
+}
  .navbar-collapse {
     display: flex!important;
     flex-basis: auto;

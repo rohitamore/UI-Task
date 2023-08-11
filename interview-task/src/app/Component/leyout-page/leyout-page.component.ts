@@ -15,6 +15,7 @@ export class LeyoutPageComponent {
   }
 
    ProgressBar() {
+    this.hideProgress=true;
     this.progress = 0;
     this.interval = setInterval(() => {
       this.progress += 10;
